@@ -25,7 +25,6 @@ function login(event) {
     }
 }
 
-// Dummy sign-up function (you can replace this with real user registration)
 function signUp(event) {
     event.preventDefault();
     const username = document.getElementById('signup-username').value;
